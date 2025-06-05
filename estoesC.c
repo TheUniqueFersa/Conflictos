@@ -1,1 +1,1 @@
-#include <stdio.h>
+#include <stdlib.h> //Biblioteca que incluye rand y atoi
