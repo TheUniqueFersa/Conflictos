@@ -1,1 +1,1 @@
-NO se como hacer encabezados en C
+#include <stdio.h>
