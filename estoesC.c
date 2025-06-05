@@ -1,1 +1,1 @@
-NO se como hacer encabezados en C
+Si se hacer cambios
